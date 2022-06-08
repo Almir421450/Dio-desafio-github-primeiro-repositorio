@@ -1,0 +1,6 @@
+Comandos úteis no Git.
+Git init- inicia o Git, cria um novo repositório.
+Git status- lista o status do repositório.
+Git push- usado para empurar uma modificação pro repositório Ghithub.
+Git pull- usado para baixar um repositório da nuvem pro PC.
+Git clone- usado para clonar um repositório para sua maquina.
